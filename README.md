@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 
 Uma simples calculadora para web e desktop.
 
