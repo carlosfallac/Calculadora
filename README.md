@@ -19,10 +19,10 @@ O projeto é uma calculadora que funciona na web e desktop com o mesmo código
 
 ## 📋 Instalação
 
-    - Clonar repositorio
+    - Clonar repositório
     $ git clone https://github.com/carlosfallac/calculadora.git && cd calculadora
 
-    - Instalar dependencias
+    - Instalar dependências
     $ npm install
 
     - Rodar aplicativo
