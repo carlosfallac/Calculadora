@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-O projeto é uma calculadora que funciona na web e desktop com o mesmo código
+O projeto consiste em uma calculadora que funciona tanto na web quanto no desktop com o mesmo código
 <br>
 <h3 align="left"><a href="https://calculadora-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
